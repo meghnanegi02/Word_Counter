@@ -17,8 +17,8 @@ Reading time estimation<br><br>
 <br>Enter your text in the provided textarea.
 <br>The application will automatically update the statistics and display them in real-time.<br><br>
 ## File Structure
-<br>index.html: The main HTML file containing the structure of the application.<br>
-<br.style.css: The CSS file with styles for the application layout and appearance.<br>
+<br>index.html: The main HTML file containing the structure of the application.
+<br>style.css: The CSS file with styles for the application layout and appearance.
 <br>page.js: The JavaScript file responsible for handling user input and updating statistics.<br><br>
 
 ## Styles
