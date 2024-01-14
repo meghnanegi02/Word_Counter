@@ -11,6 +11,10 @@ Sentence count<br>
 Paragraph count<br>
 Reading time estimation<br><br>
 
+## Screenshot
+<img width="807" alt="ss" src="https://github.com/meghnanegi02/Word_Counter/assets/122456280/de6daeae-588d-49cd-874b-6f3b7ff09224">
+
+<br><br>
 
 ## Usage<br>
 <br>Open the index.html file in a web browser.
