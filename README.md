@@ -13,8 +13,8 @@ Reading time estimation<br><br>
 
 
 ## Usage<br>
-<br>Open the index.html file in a web browser.<br>
-<br>Enter your text in the provided textarea.<br.
+<br>Open the index.html file in a web browser.
+<br>Enter your text in the provided textarea.
 <br>The application will automatically update the statistics and display them in real-time.<br><br>
 ## File Structure
 <br>index.html: The main HTML file containing the structure of the application.<br>
