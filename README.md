@@ -2,7 +2,7 @@
 <br>
 
 ## Overview
-This is a simple web-based word counter application created using HTML, CSS, and JavaScript. The application allows users to input text into a textarea, and it provides real-time statistics about the entered text, including character count, word count, sentence count, paragraph count, and estimated reading time. Additionally, it displays the top keywords present in the text.<br><br.
+This is a simple web-based word counter application created using HTML, CSS, and JavaScript. The application allows users to input text into a textarea, and it provides real-time statistics about the entered text, including character count, word count, sentence count, paragraph count, and estimated reading time. Additionally, it displays the top keywords present in the text.<br><br>
 
 ## Features
 Character count<br>
