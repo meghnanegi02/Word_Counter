@@ -31,5 +31,5 @@ Reading time estimation<br><br>
 <br>The application is designed to be responsive, adjusting its layout for different screen sizes. Media queries are used in the CSS to optimize the display on smaller devices.<br><br>
 
 ## Author
-<br>Meghna Negi <br>
+Meghna Negi <br>
 Feel free to customize, enhance, or contribute to this project!
